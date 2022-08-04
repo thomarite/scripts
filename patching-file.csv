@@ -1,0 +1,6 @@
+Site,Source Device,Source Interface,Destination Device,Destination Interface,Media
+A,SW1,Ethernet1/1,SW2,Ethernet1/1,SMF
+A,SW1,Ethernet1/2,SW2,Ethernet1/2,SMF
+A,SW1,Ethernet1/3,SW2,Ethernet1/3,SMF
+A,SW1,Ethernet1/4,SW2,Ethernet1/4,SMF
+A,SW1,Ethernet1/5,SW2,Ethernet1/5,SMF
